@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/invitados-al-evento/static/css/main.418b74c9.chunk.css",
-    "main.js": "/invitados-al-evento/static/js/main.91c4b0b5.chunk.js",
-    "main.js.map": "/invitados-al-evento/static/js/main.91c4b0b5.chunk.js.map",
+    "main.js": "/invitados-al-evento/static/js/main.9dfc75ca.chunk.js",
+    "main.js.map": "/invitados-al-evento/static/js/main.9dfc75ca.chunk.js.map",
     "runtime-main.js": "/invitados-al-evento/static/js/runtime-main.c41817d2.js",
     "runtime-main.js.map": "/invitados-al-evento/static/js/runtime-main.c41817d2.js.map",
     "static/js/2.74a2a2d6.chunk.js": "/invitados-al-evento/static/js/2.74a2a2d6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c41817d2.js",
     "static/js/2.74a2a2d6.chunk.js",
     "static/css/main.418b74c9.chunk.css",
-    "static/js/main.91c4b0b5.chunk.js"
+    "static/js/main.9dfc75ca.chunk.js"
   ]
 }
