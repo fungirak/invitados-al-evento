@@ -1,0 +1,34 @@
+.ajuste-input{
+    padding: 0;
+    margin: .5em;
+}
+
+.position-label{
+    margin-left: 10em;
+}
+
+.position-buttons{
+    margin: .5em;
+}
+
+.paq-buttons{
+    margin-left: 2em;
+}
+
+
+th, tr{
+    border-bottom: 1px solid black;
+}
+
+.logo-nav{
+    height: 1em;
+    width: 1em;
+    margin: .5em;
+}
+
+.sombra-logo{
+    background-color: white;
+    border-radius: 50% ;
+    box-shadow: 2px 1px 5px white
+}
+
